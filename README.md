@@ -3,5 +3,4 @@
 - Meu nome e Laryssa Novais
 
 - E estou estudando no alura javaScript
-
-- Utilizo esse es 
+ 
